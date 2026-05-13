@@ -1,0 +1,34 @@
+body{
+    background-color: beige;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    margin-left: 10%;
+    background-color: lightblue;
+    width: 80%;
+    height: 70px;
+}
+nav{
+    text-align: center;
+    background-color: rgb(76, 166, 179);
+    width: 80%;
+    height: 60px;
+    margin: auto;
+ }
+ nav a {
+    display: inline-block;
+    font-size: 25px;
+    margin: 10px;
+    padding-top: 5px;
+    text-decoration: none;
+ }
+ nav a:hover{
+    border-bottom: 5px solid  black;
+    color: blueviolet;
+ }
+ p{
+    text-align: left;
+ }

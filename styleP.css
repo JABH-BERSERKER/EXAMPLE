@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff7c4;
+    margin: 0;
+    padding: 20px;
+}
+
+.contenedor {
+max-width: 800px;
+margin: auto;
+background-color: #fffde7;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 10 rgba(0, 0, 0, 1);
+}
